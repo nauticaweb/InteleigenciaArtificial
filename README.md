@@ -31,10 +31,10 @@ Todo el proceso —desde la arquitectura, entrenamiento, hasta la visualización
 ## 📸 Capturas de pantalla
 
 ### 🧠 Arquitectura de la red
-<img src="img/estructura.png" width="400"/>
+<img src="img/Estructura.png" width="400"/>
 
 ### 📈 Frontera de decisión
-<img src="img/frontera.png" width="400"/>
+<img src="img/Frontera.png" width="400"/>
 
 ## 🛠 Cómo ejecutar
 
