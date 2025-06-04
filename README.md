@@ -30,11 +30,11 @@ Todo el proceso —desde la arquitectura, entrenamiento, hasta la visualización
 
 ## 📸 Capturas de pantalla
 
-| Arquitectura de la red | Frontera de decisión |
-|------------------------|----------------------|
-| ![Estructura](img/red.png) | ![Frontera](img/frontera.png) |
+### 🧠 Arquitectura de la red
+<img src="img/estructura.png" width="400"/>
 
-*Nota: las imágenes deben colocarse manualmente en una carpeta `img/`.*
+### 📈 Frontera de decisión
+<img src="img/frontera.png" width="400"/>
 
 ## 🛠 Cómo ejecutar
 
